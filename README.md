@@ -1,4 +1,4 @@
-# PythonCource
+# PythonCourse
 Plan to prepare for a Python-related placement exam
 
 ## Day 1-2: 
